@@ -53,4 +53,3 @@ def pregunta_01():
 
     return df
 
-pregunta_01()
