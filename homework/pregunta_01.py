@@ -21,8 +21,8 @@ def pregunta_01():
 
 
     """
-
-    with open('files\\input\\clusters_report.txt', 'r') as file:
+    
+    with open('files/input/clusters_report.txt', 'r') as file:
         datos = []
         fila_actual = []
         for i, line in enumerate(file):
